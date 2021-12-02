@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D91D490E2758F37A00AC7222 /* AnimalDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D91D490D2758F37A00AC7222 /* AnimalDetailView.swift */; };
 		D980433C27551FA000C570CC /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980433B27551FA000C570CC /* CodableBundleExtension.swift */; };
 		D980433F2755208D00C570CC /* CoverImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D980433E2755208D00C570CC /* CoverImageView.swift */; };
 		D98043422755221A00C570CC /* CoverImageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98043412755221A00C570CC /* CoverImageModel.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D91D490D2758F37A00AC7222 /* AnimalDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalDetailView.swift; sourceTree = "<group>"; };
 		D980433B27551FA000C570CC /* CodableBundleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundleExtension.swift; sourceTree = "<group>"; };
 		D980433E2755208D00C570CC /* CoverImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImageView.swift; sourceTree = "<group>"; };
 		D98043412755221A00C570CC /* CoverImageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverImageModel.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 			children = (
 				D980433E2755208D00C570CC /* CoverImageView.swift */,
 				D98043432755323E00C570CC /* AnimalListItemView.swift */,
+				D91D490D2758F37A00AC7222 /* AnimalDetailView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 				D9FC4C7F274E6BA8009AB8A4 /* MainView.swift in Sources */,
 				D9FC4C7B274E5926009AB8A4 /* MapView.swift in Sources */,
 				D9B4DDFC274D157000768ED2 /* AfricaApp.swift in Sources */,
+				D91D490E2758F37A00AC7222 /* AnimalDetailView.swift in Sources */,
 				D9E0A0792756818B0021BEA8 /* AnimalModel.swift in Sources */,
 				D98043422755221A00C570CC /* CoverImageModel.swift in Sources */,
 				D980433F2755208D00C570CC /* CoverImageView.swift in Sources */,
