@@ -40,7 +40,7 @@ struct VideoListItem: View {
                     .font(.footnote)
                     .multilineTextAlignment(.leading)
                     .lineLimit(2)
-            }
+            } //: VSTACK
         } //: HSTACK
     }
 }
